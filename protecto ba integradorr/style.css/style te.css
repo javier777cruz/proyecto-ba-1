@@ -1,0 +1,15 @@
+span {
+    color: bisque
+}
+
+#caja1{
+    height: 301px;
+    background-color: blue;
+    width: 50%;
+}
+
+#caja2{
+    height: 301px;
+    background-color: lightslategray;
+    width: 50%;
+}
